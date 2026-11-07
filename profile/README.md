@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./assets/regvant-banner.png" alt="Regvant — software for finance · consulting" width="100%">
 </p>
@@ -30,8 +31,8 @@ The name comes from **reg**ulation + ad**vant**age: in finance, getting the rule
 
 ### Get in touch
 
-- 🌐 regvant.com(https://regvant.com)
-- ✉️ info@regvant.com(mailto:info@regvant.com)
+- 🌐 [regvant.com](https://regvant.com)
+- ✉️ [info@regvant.com](mailto:info@regvant.com)
 
 <p align="center">
   <img src="./assets/regvant-emblem.svg" alt="Regvant" width="48"><br>
